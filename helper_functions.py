@@ -43,3 +43,15 @@ if __name__ == "__main__":
 
     add_state_names_column(my_df)
     print(df.head())
+
+
+
+#Lets creat class 
+
+class Person:  
+    
+    def __init__(self, name, age):
+    self.name = name
+    self.age = age
+
+    
